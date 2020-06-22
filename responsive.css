@@ -70,4 +70,10 @@
   .footer-center{
     text-align: center;
   }
+  
+  .footer-center{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
 }
