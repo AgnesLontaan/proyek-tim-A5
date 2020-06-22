@@ -1,5 +1,5 @@
 /* Untuk Tablet */
-@media all and (max-width: 1000px) {
+@media all and (max-width: 900px) {
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -17,9 +17,6 @@
     display:none;
   }
   
-  .fa-bars {
-    display:none;
-  }
 }
 
 /* Untuk Smartphone */
