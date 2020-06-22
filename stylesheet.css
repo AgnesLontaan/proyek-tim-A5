@@ -134,23 +134,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/*.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}*/
-
-/*.fa-bars {
-  display: none;
-}*/
-
-header span {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
+.menu-icon {
   display: none;
 }
 
