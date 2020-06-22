@@ -81,9 +81,11 @@ a {
 .btn:hover {
   opacity: 1;
 }
+
 .signup:hover {
   background-color: #d2d2d2;
 }
+
 .fa {
   margin-right: 5px;
 }
@@ -105,6 +107,7 @@ header {
 .header-left {
   float: left;
 }
+
 .header-left input {
  float:right;
  display:block;
@@ -112,6 +115,7 @@ header {
  margin-left:15px;
  border-radius: 5px;
 }
+
 .header-right {
   float: right;
   margin-right: -25px;
@@ -130,13 +134,12 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Tambahkan CSS untuk menu-icon */
 .menu-icon {
-  display:none;
-  color: #fff;
+  display: none;
+  color: white;
+  float: right;
   font-size: 25px;
   padding: 21px 0;
-  float: right;
 }
 
 .lesson-wrapper {
